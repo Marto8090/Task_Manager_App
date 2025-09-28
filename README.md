@@ -1,22 +1,20 @@
 # Task_Manager_App
-Task Manager (Node.js)
+## Task Manager (Node.js)
 
 A small task manager I’m building this semester to practice JavaScript, Node.js, and Express — and to make something my mom (an accountant) can actually use instead of sticky notes.
 
-Live URL: (if deployed) — ADD_URL_HERE
+Live URL: (if deployed) -
 
-Status: Sprint N / 5 • Last updated: YYYY‑MM‑DD
+Status: Sprint 1 / 5 • Last updated: 
 
-What this does (MVP)
+## What this does (MVP)
 
-Create, edit, delete tasks
+• Create, edit, delete tasks
 
-Status: TODO / IN_PROGRESS / DONE
+• Status: TODO / IN_PROGRESS / DONE
 
-Priority: High / Medium / Low
+• Priority: High / Medium / Low
 
-Due dates + simple filters
+• Due dates and simple filters
 
-(Later) Login so each user sees their own tasks
-
-Quick start
+• (Later) Login so each user sees their own tasks
